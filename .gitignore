@@ -1,0 +1,11 @@
+#Mac files
+.DS_Store
+
+#Paper and other documentations
+*.docx
+*.doc
+*.ppt
+*.pptx
+
+#Data files
+*.mat
